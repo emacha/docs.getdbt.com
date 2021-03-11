@@ -1,6 +1,6 @@
 ---
-title: "Creating a dbt package"
-id: "creating-packages"
+title: "Building a dbt package" # to do: update this to creating
+id: "building-packages"
 ---
 
 ## Assumed knowledge
